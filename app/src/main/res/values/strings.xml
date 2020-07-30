@@ -11,4 +11,8 @@
     <string name="str_create">Create</string>
     <string name="str_logo">logo</string>
     <string name="str_email">Email</string>
+    <string name="log_in_to_twitter">Log in to Twitter.</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="your_email">Your email</string>
 </resources>
