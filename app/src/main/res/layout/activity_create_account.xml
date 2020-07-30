@@ -70,6 +70,16 @@
             android:importantForAutofill="no" />
 
         <EditText
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/str_email"
+            android:textColor="@color/colorBlack"
+            android:textSize="20sp"
+            android:inputType="textEmailAddress"
+            android:importantForAutofill="no" />
+
+        <EditText
             android:id="@+id/et_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
